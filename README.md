@@ -5,4 +5,4 @@ cheatsheet for linux commands
 📖 **list** available fonts: `fc-list`
 
 # nettools
-💻 **list** listening ports: `sudo netstat -tunlp`
+💻 **list** all listening ports: `sudo netstat -tunlp`
